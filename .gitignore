@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+lib_managed/
+.cache-main
+.settings/
+bin/
